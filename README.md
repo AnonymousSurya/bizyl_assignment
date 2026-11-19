@@ -3,7 +3,7 @@
 ## Setup & Run
 
 ### Prerequisites
-- Conda (Python 3.12 environment)
+- Python 3.12
 - Groq API key (set in `.env`)
 
 ### Create environment and install dependencies
