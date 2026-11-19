@@ -1,0 +1,80 @@
+[
+  {
+    "job_id": "JB_101",
+    "is_active": true,
+    "inactive_reason": null,
+    "title_clean": "Senior Backend & Data Engineer (Python)",
+    "raw_location_clean": "Remote Anywhere",
+    "contradiction_detected": true,
+    "contradiction_note": "raw_location claims 'Remote Anywhere' but snippet mandates US/Canada residency",
+    "employment_type": "Full-time",
+    "remote_scope": "Remote (Restricted)",
+    "mapped_domain": "Information Technology",
+    "seniority": "Senior"
+  },
+  {
+    "job_id": "JB_102",
+    "is_active": false,
+    "inactive_reason": "Job no longer available or has been filled",
+    "title_clean": "Growth & Paid Search Specialist",
+    "raw_location_clean": "Dubai, UAE (Hybrid - 3 days office)",
+    "contradiction_detected": false,
+    "contradiction_note": null,
+    "employment_type": null,
+    "remote_scope": null,
+    "mapped_domain": null,
+    "seniority": null
+  },
+  {
+    "job_id": "JB_103",
+    "is_active": true,
+    "inactive_reason": null,
+    "title_clean": "Strategy & Market Sizing Associate",
+    "raw_location_clean": "Remote - Global",
+    "contradiction_detected": false,
+    "contradiction_note": null,
+    "employment_type": "Contract",
+    "remote_scope": "Remote (Global)",
+    "mapped_domain": "Consulting",
+    "seniority": "Mid-Level"
+  },
+  {
+    "job_id": "JB_104",
+    "is_active": true,
+    "inactive_reason": null,
+    "title_clean": "FP&A Analyst — Unit Economics",
+    "raw_location_clean": "Bengaluru, India (On-site)",
+    "contradiction_detected": false,
+    "contradiction_note": null,
+    "employment_type": "Full-time",
+    "remote_scope": "On-site",
+    "mapped_domain": "Finance",
+    "seniority": "Mid-Level"
+  },
+  {
+    "job_id": "JB_105",
+    "is_active": false,
+    "inactive_reason": "Soft-404: Requisition ID does not exist",
+    "title_clean": "AI / ML Engineering Intern (NLP)",
+    "raw_location_clean": "Remote (India)",
+    "contradiction_detected": false,
+    "contradiction_note": null,
+    "employment_type": null,
+    "remote_scope": null,
+    "mapped_domain": null,
+    "seniority": null
+  },
+  {
+    "job_id": "JB_107",
+    "is_active": true,
+    "inactive_reason": null,
+    "title_clean": "Part-Time Paid Social Buyer (Meta Ads)",
+    "raw_location_clean": "Remote - UK & EU Only",
+    "contradiction_detected": false,
+    "contradiction_note": null,
+    "employment_type": "Part-time",
+    "remote_scope": "Remote (Restricted)",
+    "mapped_domain": "Marketing",
+    "seniority": "Mid-Level"
+  }
+]
